@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main()
 {
-    int female,balance,male;
-    female==1,male==0;
+    int female,balance,others;
+    female==1,others==0;
     scanf("%d%d",&female,&balance);
     if(female==1&&balance>50000)
     {
@@ -14,4 +14,3 @@ int main()
     else
         printf("2percent");
 }
-
